@@ -1,1 +1,1 @@
-# this repository for intership at CodeSoft
+# this repository for intership at CodSoft
